@@ -61,7 +61,7 @@ const Weatherapp = () => {
                 </div>
             </div>
         </div>
-        <div className={error ? 'mx-auto top-0 text-center flex justify-center bg-red-500 w-screen h-16 absolute align-middle ease-in-out duration-300' : 'top-[-100%]'}>
+        <div className={error ? 'mx-auto top-0 text-center flex justify-center bg-red-500 w-screen h-16 absolute align-middle ease-in-out duration-300 opacity-100' : 'opacity-0'}>
             <h1 className='text-white mx-auto my-auto'><span className='font-bold'>Error:</span> City not found</h1>
         </div>
     </div>
