@@ -1,7 +1,7 @@
 {
   "name": "cipciers",
   "private": true,
-  "homepage": "https://merloxinho.github.io/weather-app",
+  "homepage": "https://merloxinho.github.io/react-weather-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
